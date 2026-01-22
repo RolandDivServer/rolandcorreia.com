@@ -1,17 +1,16 @@
 {
-  "right-to-repair": {
-    "title": "What is the Right to Repair movement?",
-    "meta": "By R. Correia · 8 min read",
-    "imgAlt": "Phone repair on a lit workbench",
-    "imgSrc": "https://images.unsplash.com/photo-1576613109753-27804de2cba8",
-    "excerpt": "How targeted legislation can curb e-waste and extend device lifespans.",
-    "body": [
-      "<p>The Right to Repair movement argues that consumers and independent repairers should have practical access to parts, tools, manuals and diagnostics needed to fix modern devices.</p>",
-      "<p>Supporters say this extends product lifespans, cuts e-waste and lowers costs while keeping local repair economies alive.</p>",
-      "<h3>Why it matters</h3>",
-      "<ul><li>Less e-waste → lower environmental impact.</li><li>Cheaper fixes and longer device lifespans.</li><li>More competition and innovation in repair services.</li></ul>",
-      "<p>Policy frameworks differ by region, but the direction is clear: repair should be a right, not a privilege.</p>"
-    ]
+"body": [
+  "<p>The modern consumer landscape is defined by a 'take-make-dispose' model, but a growing legislative movement is looking to pull the plug on planned obsolescence. My research into the <strong>UK’s Right to Repair</strong> framework reveals that while we have taken the first steps, the path to a truly circular economy requires a much broader reach.</p>",
+  "<h3>Beyond the 2021 Regulations</h3>",
+  "<p>In 2021, the UK introduced the <em>'Ecodesign for Energy-Related Products and Energy Information Regulations.'</em> While hailed as a victory, my analysis shows these rules are restricted mainly to white goods like dishwashers and refrigerators. Crucially, they exclude the devices that dominate our waste streams: <strong>smartphones, laptops, and tablets.</strong></p>",
+  "<h3>The Environmental Imperative</h3>",
+  "<p>Electronic waste (e-waste) is the fastest-growing waste stream globally. By extending product lifespans through accessible repair, we can drastically reduce the carbon footprint associated with manufacturing new devices. My dissertation argues that repair isn't just a technical necessity; it is an environmental obligation to restore our planet by curbing the constant demand for raw mineral extraction.</p>",
+  "",
+  "<h3>Breaking the Monopoly on Repair</h3>",
+  "<p>Currently, manufacturers often use 'software locks' and proprietary screws to prevent independent repair. This creates a monopoly that drives up costs for consumers. My research suggests that by forcing manufacturers to provide <strong>manuals, diagnostics, and genuine parts</strong> to the public, we create a competitive market that saves consumers money and empowers local businesses.</p>",
+  "<h3>The Circular Future</h3>",
+  "<p>The conclusion is clear: the UK must extend legislation to cover all portable electronics. We need to move toward a future where a cracked screen or a failing battery isn't a death sentence for a device. Transitioning to a circular economy—where devices are refurbished, reused, and repaired—is the only way to protect consumer freedom and ecological health.</p>"
+]
   },
   "cost-of-betting": {
     "title": "The cost of betting against the stock market",
