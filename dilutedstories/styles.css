@@ -80,7 +80,8 @@ body.modal-open { overflow:hidden; }
 .ds-modal[hidden]{ display:none !important; }
 .ds-modal{ position:fixed; inset:0; z-index:1000; }
 .ds-modal__scrim{ position:absolute; inset:0; background:rgba(0,0,0,.55); -webkit-backdrop-filter:saturate(120%) blur(2px); backdrop-filter:saturate(120%) blur(2px); }
-.ds-modal__panel{ position:absolute; left:50%; top:4%; transform:translateX(-50%); width:min(920px,92vw); max-height:92vh; overflow:auto; background:var(--bg); color:var(--ink); border:1px solid var(--rule); border-radius:16px; box-shadow:0 20px 60px rgba(0,0,0,.25); padding:16px 20px 24px; }
+.ds-modal__panel {width: 95%; max-width: 600px;}
+@media (min-width: 768px) {.ds-modal__panel {max-width:900px;padding: 40px;}}
 .ds-modal__bar{ display:flex; align-items:center; gap:8px; position:sticky; top:0; background:inherit; padding-bottom:8px; }
 .ds-modal__bar .spacer{ flex:1 }
 .ds-modal__close{ margin-left:4px }
